@@ -24,7 +24,7 @@ start_message = """
 
 about_message = """
 <b>• Name : <a href=https://t.me/thespeedmoviess>Speed AutoCaption</a></b>
-<b>• Developer : <a href=http://t.me/manishraii>[VJ UPDATES]</a></b>
+<b>• Developer : <a href=http://t.me/manishraii>[Speed UPDATES]</a></b>
 <b>• Language : Python3</b>
 <b>• Library : Pyrogram v{version}</b>
 <b>• Updates : <a href=https://t.me/thespeedmoviess>Click Here</a></b>
